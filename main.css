@@ -1,0 +1,50 @@
+header {
+	top: auto 0;
+	padding:20px;
+	background-color: GoldenRod;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+header h1 {
+	font-family: helvetica;
+	font-size: 18px
+	color: black;
+}
+
+header p {
+	font-size: 14px;
+	font-family: helvetica;
+	padding-top: 1px;
+	margin-top: 10px;
+}
+
+p {
+	font-family: helvetica;
+	font-size: 14px;
+	text-align: center;
+	padding-top: 5px;
+}
+
+h2 {
+	font-size: 16px;
+	text-align: center;
+	font-family: helvetica;
+	padding-bottom: 5px;
+}
+
+.container {
+	border: 1px solid grey;
+	width: 446px;
+}
+
+.Rey {
+	width: 444px;
+}
+
+
+
+
+
+
+
