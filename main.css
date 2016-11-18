@@ -36,6 +36,7 @@ h2 {
 .container {
 	border: 1px solid grey;
 	width: 446px;
+	margin-bottom: 5px;
 }
 
 img {
